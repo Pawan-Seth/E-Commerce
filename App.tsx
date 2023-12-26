@@ -38,7 +38,9 @@ const App = () => {
           style={{
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
-          <Text>THIS IS FOR A STARTUP</Text>
+          <Text>This is development branch
+            
+          </Text>
         </View>
       </ScrollView>
     </SafeAreaView>
